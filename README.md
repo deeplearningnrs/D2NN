@@ -8,7 +8,7 @@ New York Times Article API Docs: http://developer.nytimes.com/docs/read/article_
 Requesting an API Key for the Times API: http://developer.nytimes.com/docs/reference/keys
 
 Our news data is uploaded to this repository.
-The interactions on the news are too large files and can not be uploaded on Git repository, so those interaction files matching with the timeline of news data can be accessed via this link https://drive.google.com/drive/folders/1KBjnTMBzFWlZcvO7_xNScaKUZ_UMUill?usp=sharing
+The interactions on the news are too large files and can not be uploaded on Git repository due to size limit, so a sample of interaction files matching with the timeline of news data can be accessed via this link https://drive.google.com/drive/folders/1f9oy_VjX6gMP1eepQ3VHumkmwmPYBWZ1?usp=sharing
 
 thanks
 
