@@ -13,15 +13,23 @@ The interactions on the news are too large files and can not be uploaded on Git 
 
 # Baseline:
 Our baselines are given as:
-DKN: https://github.com/hwwang55/DKN
-LSTUR: https://github.com/nvagus/mnexp
-DMF: https://github.com/RuidongZ/Deep_Matrix_Factorization_Models
-HURA: we implemented ourselves
-GRU4Rec+: https://github.com/wubinzzu/NeuRec
- SASRec: https://github.com/kang205/SASRec
-SRGNN : https://github.com/userbehavioranalysis/SR-GNN_PyTorch-Geometric
-BERT4Rec: https://github.com/FeiSun/BERT4Rec
+[1] DKN: https://github.com/hwwang55/DKN
 
+[2] LSTUR: https://github.com/nvagus/mnexp
+
+[3] DMF: https://github.com/RuidongZ/Deep_Matrix_Factorization_Models
+
+[4] HURA: we implemented ourselves
+
+[5] GRU4Rec+: https://github.com/wubinzzu/NeuRec
+
+[6] SASRec: https://github.com/kang205/SASRec
+
+[7] SRGNN : https://github.com/userbehavioranalysis/SR-GNN_PyTorch-Geometric
+
+[8] BERT4Rec: https://github.com/FeiSun/BERT4Rec
+
+We ran all the model variants and baselines on our dataset.
 
 thanks
 
