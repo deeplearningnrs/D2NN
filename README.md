@@ -10,5 +10,18 @@ Requesting an API Key for the Times API: http://developer.nytimes.com/docs/refer
 Our news data is uploaded to this repository.
 The interactions on the news are too large files and can not be uploaded on Git repository due to size limit, so a sample of interaction files matching with the timeline of news data can be accessed via this link https://drive.google.com/drive/folders/1f9oy_VjX6gMP1eepQ3VHumkmwmPYBWZ1?usp=sharing
 
+
+# Baseline:
+Our baselines are given as:
+DKN: https://github.com/hwwang55/DKN
+LSTUR: https://github.com/nvagus/mnexp
+DMF: https://github.com/RuidongZ/Deep_Matrix_Factorization_Models
+HURA: we implemented ourselves
+GRU4Rec+: https://github.com/wubinzzu/NeuRec
+ SASRec: https://github.com/kang205/SASRec
+SRGNN : https://github.com/userbehavioranalysis/SR-GNN_PyTorch-Geometric
+BERT4Rec: https://github.com/FeiSun/BERT4Rec
+
+
 thanks
 
