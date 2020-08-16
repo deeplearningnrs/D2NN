@@ -44,7 +44,7 @@ Our baselines are given as:
 
 [7]	S. Wu, Y. Tang, Y. Zhu, L. Wang, X. Xie, and T. Tan, “Session-Based Recommendation with Graph Neural Networks,” AAAI, vol. 33, pp. 346–353, Jul. 2019, doi: 10.1609/aaai.v33i01.3301346.
 
-[8]	F. Sun et al., “BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer,” arXiv:1904.06690 [cs], Aug. 2019, Accessed: Dec. 03, 2019. [Online]. Available: http://arxiv.org/abs/1904.06690.
+[8]	F. Sun et al., “BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer,” arXiv:1904.06690 [cs], Aug. 2019, In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 1441-1450).
 
 
 We ran all the model variants and baselines on our dataset.
