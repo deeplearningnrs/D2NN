@@ -14,8 +14,11 @@ The URL used to retrieve comments from a given article in the code in the [packa
 # Baseline:
 Our baselines are given as:
 [1] [DKN](https://github.com/hwwang55/DKN)
+
 [2] [LSTUR](https://github.com/nvagus/mnexp)
+
 [3] [DMF](https://github.com/RuidongZ/Deep_Matrix_Factorization_Models)
+
 [4] [CDAE](https://github.com/henry0312/CDAE)
 
 [5] [GRU4Rec+](https://github.com/hidasib/GRU4Rec). extended the functionality of paper
