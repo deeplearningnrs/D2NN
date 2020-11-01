@@ -13,6 +13,7 @@ The URL used to retrieve comments from a given article in the code in the [packa
 
 # Baseline:
 Our baselines are given as:
+
 [1] [DKN](https://github.com/hwwang55/DKN)
 
 [2] [LSTUR](https://github.com/nvagus/mnexp)
