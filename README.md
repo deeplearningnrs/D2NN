@@ -1,4 +1,4 @@
-# D3NN
+# D2NN
 We collected the news data using New York Times API[1] by retrieving the URL of the articles. We used a Python tool [2] that serves as API Wrapper for New York Times to
 retrieve the comments and other interactions on the news articles. Those interactions were retrieved with respect to the timeline of retrieved news data. 
 
