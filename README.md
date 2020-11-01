@@ -19,7 +19,7 @@ Our baselines are given as:
 
 [3] DMF: https://github.com/RuidongZ/Deep_Matrix_Factorization_Models
 
-[4] HURA: we implemented ourselves
+[4] CDAE: https://github.com/henry0312/CDAE
 
 [5] GRU4Rec+: extended the functionality of https://github.com/hidasib/GRU4Rec as per paper
 
@@ -36,7 +36,7 @@ Our baselines are given as:
 
 [3]	H.-J. Xue, X. Dai, J. Zhang, S. Huang, and J. Chen, “Deep Matrix Factorization Models for Recommender Systems,” in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, Melbourne, Australia, Aug. 2017, pp. 3203–3209, doi: 10.24963/ijcai.2017/447.
 
-[4]	C. Wu, F. Wu, J. Liu, S. He, Y. Huang, and X. Xie, “Neural Demographic Prediction using Search Query,” in Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining, Melbourne VIC Australia, Jan. 2019, pp. 654–662, doi: 10.1145/3289600.3291034.
+[4]	Wu Y, DuBois C, Zheng AX, Ester M. Collaborative denoising auto-encoders for top-n recommender systems. InProceedings of the Ninth ACM International Conference on Web Search and Data Mining 2016 Feb 8 (pp. 153-162).
 
 [5]	B. Hidasi and A. Karatzoglou, “Recurrent Neural Networks with Top-k Gains for Session-based Recommendations,” in Proceedings of the 27th ACM International Conference on Information and Knowledge Management, Torino Italy, Oct. 2018, pp. 843–852, doi: 10.1145/3269206.3271761.
 
