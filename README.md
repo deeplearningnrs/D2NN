@@ -46,7 +46,7 @@ Our baselines are given as:
 [8]	F. Sun et al., “BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer,” arXiv:1904.06690 [cs], Aug. 2019, In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 1441-1450).
 
 
-We ran all the model variants and baselines on our dataset and the [MIND] (https://msnews.github.io/) dataset.
+We ran all the model variants and baselines on the NYTimes dataset (sample files with this repository) and the [MIND] (https://msnews.github.io/) dataset.
 
 Thanks
 
