@@ -31,6 +31,9 @@ Our baselines are given as:
 
 [1]	H. Wang, F. Zhang, X. Xie, and M. Guo, “DKN: Deep knowledge-aware network for news recommendation,” in Proceedings of the 2018 World Wide Web Conference, 2018, pp. 1835–1844.
 
+
+We have updated the github repository for D2NN and the code for model, baselines and dataset can be found in the folder 
+
 [2]	M. An, F. Wu, C. Wu, K. Zhang, Z. Liu, and X. Xie, “Neural News Recommendation with Long- and Short-term User Representations,” in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, Florence, Italy, 2019, pp. 336–345, doi: 10.18653/v1/P19-1033.
 
 [3]	H.-J. Xue, X. Dai, J. Zhang, S. Huang, and J. Chen, “Deep Matrix Factorization Models for Recommender Systems,” in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, Melbourne, Australia, Aug. 2017, pp. 3203–3209, doi: 10.24963/ijcai.2017/447.
@@ -49,4 +52,7 @@ Our baselines are given as:
 We ran all the model variants and baselines on the NYTimes dataset (sample files with this repository) and the [MIND] (https://msnews.github.io/) dataset.
 
 Thanks
+
+
+## We have updated the github reporitory and all code for model, dataset and baselines can be accessed at D2NN_latest.
 
