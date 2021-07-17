@@ -1,3 +1,8 @@
+## We have updated the github reporitory and all code for model, dataset and baselines can be accessed at D2NN_latest. Due to space limitation in Github, we are unable to upload whole bunch of files in Github, so we are giving the google drive link here link
+https://drive.google.com/file/d/1QOXynsrDfsNthZcVi2GHanuUfSBDzk4j/view?usp=sharing
+
+************************************************************************************************************************************************
+
 # D2NN
 We collected the news data using New York Times [API](https://developer.nytimes.com/) by retrieving the URL of the articles. We used a Python tool [1] that serves as API Wrapper for New York Times to retrieve the comments and other interactions on the news articles. Those interactions were retrieved with respect to the timeline of retrieved news data. 
 
@@ -54,5 +59,5 @@ We ran all the model variants and baselines on the NYTimes dataset (sample files
 Thanks
 
 
-## We have updated the github reporitory and all code for model, dataset and baselines can be accessed at D2NN_latest.
+
 
